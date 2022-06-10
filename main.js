@@ -1,3 +1,3 @@
-// @TODO: #1 test todo in js
+// @TODO: test todo in js
 
 console.log("test");
