@@ -1,5 +1,5 @@
 /**
- * @todo /DEV test todo format
+ * @todo test
  */
 
 console.log("test");
